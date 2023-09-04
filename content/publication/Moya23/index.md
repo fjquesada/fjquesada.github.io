@@ -27,7 +27,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Wireless Networks
-publication_short: WINE
+#publication_short: WINE
 
 abstract: "Nowadays, IoT devices, especially wearable devices, are commonly integrated into modern intelligent healthcare software. These devices enable medical practitioners to monitor pervasively patients' parameters outside the clinical environment. However, the ease of manipulating wearable devices and their data streams raises concerns regarding patient privacy and data trust. DLT offer solutions to enhance resistance against information manipulation and eliminate single points of failure. By leaveraging DLT, wearable-based solutions can be developed with a wider range of capabilities. This paper carries out an analysis of shortcomings, limitations, potential applications and needs in the medical domain, to introduce Phonendo 1.0, a DLT-IoT-based platform designed to capture data streams from wearable devices and publishing them on a DLTI. The architecture and its difference services are justified based on the identified needs and challenges in the medical domain."
 

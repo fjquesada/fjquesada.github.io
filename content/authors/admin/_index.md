@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Knowledge Representation
+    - course: PhD in AI
       institution: University of Edinburgh
       year: 2021
     - course: PhD in ICT
@@ -88,5 +88,12 @@ email: ""
 highlight_name: true
 ---
 
-**Francisco José Quesada Real** received the B.S. and M.S. degrees in Computer Science, a M.S. degree in Education and the Ph.D. degree (specialised in ICT) from the ["University of Jaén"](www.ujaen.es). In 2015, he was a Marie Curie Early-Stage Researcher at the ["University of Edinburgh"](www.ued.co.uk), obtaining the Ph.D. degree (specialised in Artificial Intelligence). He has been an Assistant Lecturer since 2020, with the ["University of Cádiz"](www.uca.es) (from 2020 to 2022) and the ["University of Jaén"](www.ujaen.es) (from 2022). He is member of the ["Intelligent Systems Based on Fuzzy Decision Analysis" (Sinbad2)](https://sinbad2.ujaen.es/) Research Group. His current research interest includes Distributed Ledger Technologies, Group Decision Making, Ontology Matching, IoT, and Emergency Response.
+I am currently an Assistant Lecturer at the [University of Jaén](www.ujaen.es). Prior to that, I was a Marie Curie Early Stage Researcher at the [University of Edinburgh](www.ued.co.uk), an Assistant Lecturer at the [University of Cádiz](www.uca.es) and a Senior Software Engineer.
+
+I am a member of:
+
+- [Intelligent Systems Based on Fuzzy Decision Analysis (Sinbad2)](https://sinbad2.ujaen.es/)
+- [RIBCi](https://www.cyted.org/RIBCI)
+- [IEEE](https://www.ieee.org)
+
 {style="text-align: justify;"}
