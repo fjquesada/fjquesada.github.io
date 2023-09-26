@@ -4,11 +4,6 @@ date: 2023-09-14
 type: book
 ---
 
-### Slides
-
-- Computer Architecture 2021/2022
-- OM Workshop
-
 ### Links
 
 #### University of Jaén
