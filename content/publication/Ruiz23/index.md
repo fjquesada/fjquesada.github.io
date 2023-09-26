@@ -35,7 +35,7 @@ abstract: "Deep Learning (DL) has a wide variety of applications in various them
 tags: [Deep Learning, DEMs]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

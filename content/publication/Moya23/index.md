@@ -34,7 +34,7 @@ abstract: "Nowadays, IoT devices, especially wearable devices, are commonly inte
 tags: [IoT, DLT]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

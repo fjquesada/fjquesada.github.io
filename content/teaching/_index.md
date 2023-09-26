@@ -1,6 +1,6 @@
 ---
 title: Teaching
-date: 2019-05-05
+date: 2023-09-06
 type: book
 ---
 
@@ -8,9 +8,9 @@ type: book
 
 #### University of Jaén
 
-- [Fundamentals of Computer Architecture](https://uvirtual.ujaen.es/srv/es/informacionacademica/catalogoguiasdocentes/p/2023-24/4/133A/13311005/es/2023-24-13311005_es.html)
-- [Hardware Programming](https://uvirtual.ujaen.es/srv/es/informacionacademica/catalogoguiasdocentes/p/2023-24/4/133A/13313012/es/2023-24-13313012_es.html)
-- [Programming and Network Administration](https://uvirtual.ujaen.es/srv/es/informacionacademica/catalogoguiasdocentes/p/2023-24/4/133A/13312025/es/2023-24-13312025_es.html)
+- [Fundamentals of Computer Architecture](https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2023-24/4/133A/13311005/es/2023-24-13311005_es.html)
+- [Hardware Programming](https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2023-24/4/133A/13313012/es/2023-24-13313012_es.html)
+- [Programming and Network Administration](https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2023-24/4/133A/13312025/es/2023-24-13312025_es.html)
 
 ### Past courses
 

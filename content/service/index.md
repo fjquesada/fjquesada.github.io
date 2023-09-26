@@ -13,6 +13,7 @@ comments: false # Show comments?
 
 #### Organising Committee
 
+- International Workshop on Artificial Intelligence and Analytics (Eureka 2023)
 - Scottish Theorem Proving Seminar (STP), 2016
 - 95th meeting of the EURO working group on Multiple Criteria Decision Aiding (EWG-MCDA 95), 2023
 
