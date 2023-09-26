@@ -26,7 +26,7 @@ type: book
 - [TFG Computer Science UJA](https://github.com/fjquesada/TFGLatexTemplate)
 - [TFG Biology UJA](https://github.com/fjquesada/tfg_template_biology)
 
-#### Control Versioning
+#### Git
 
 - [Github](http://github.com/)
 
