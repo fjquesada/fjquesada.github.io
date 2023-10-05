@@ -29,3 +29,8 @@ type: book
 
 - [How to Write an Informatics Paper](https://sweb.inf.ed.ac.uk/bundy/how-tos/writingGuide.html)
 - [The researchers Bible](https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html)
+
+#### Gamification
+
+- [Spin the Wheel](https://spinthewheel.io/es)
+- [Kahoot](http://kahoot.com/)
