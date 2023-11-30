@@ -22,15 +22,14 @@ organizations:
     url: www.ujaen.es
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Distributed Ledger Technologies, Group Decision Making, Ontology Matching, IoT, and Emergency Response.
+bio: My research interests include AI, DLT, IoT, and GDM.
 
 # Interests to show in About widget
 interests:
+  - Artificial Intelligence
   - Distributed Ledger Technologies
+  - Internet of Things
   - Group Decision Making
-  - IoT
-  - Ontology Matching
-  - Emergency Response
 
 # Education to show in About widget
 education:
