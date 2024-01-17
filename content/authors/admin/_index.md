@@ -14,10 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Lecturer
+role: Researcher/Assistant Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: The Agile Monkeys
+    url: https://www.theagilemonkeys.com
   - name: University of Jaén
     url: www.ujaen.es
 
@@ -87,7 +89,7 @@ email: ""
 highlight_name: true
 ---
 
-I am currently an Assistant Lecturer at the [University of Jaén](www.ujaen.es). Prior to that, I was a Marie Curie Early Stage Researcher at the [University of Edinburgh](www.ued.co.uk), an Assistant Lecturer at the [University of Cádiz](www.uca.es) and a Senior Software Engineer.
+I am currently a Researcher at [The Agile Monkeys](https://www.theagilemonkeys.com) and an Assistant Lecturer at the [University of Jaén](www.ujaen.es). Prior to that, I was a Marie Curie Early Stage Researcher at the [University of Edinburgh](www.ued.co.uk), an Assistant Lecturer at the [University of Cádiz](www.uca.es) and a Senior Software Engineer.
 
 I am a member of:
 
