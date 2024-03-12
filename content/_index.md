@@ -98,8 +98,9 @@ sections:
         country: Spain
       directions: A3-241
       office_hours:
-        - "Friday 9:00 to 13:30"
-        - "Friday 16:00 to 17:30"
+        - "Thursday 8:30-9:30"
+        - "         13:00-14:00"
+        - "         17:30-19:30"
 
       # Automatically link email and phone or display as text?
       autolink: true
