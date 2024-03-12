@@ -99,8 +99,6 @@ sections:
       directions: A3-241
       office_hours:
         - "Thursday 8:30-9:30"
-        - "         13:00-14:00"
-        - "         17:30-19:30"
 
       # Automatically link email and phone or display as text?
       autolink: true
