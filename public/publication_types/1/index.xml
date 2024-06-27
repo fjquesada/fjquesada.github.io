@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Francisco José Quesada Real</title>
+    <link>http://localhost:1313/publication_types/1/</link>
+      <atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>http://localhost:1313/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>CertifIoT: An IoT and DLT-Based Solution for Enhancing Trust and Transparency in Data Certification</title>
+      <link>http://localhost:1313/publication/moya23a/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moya23a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using domain lexicon and grammar for ontology matching</title>
+      <link>http://localhost:1313/publication/quesada20/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Semantic Domains in Emergency Scenarios</title>
+      <link>http://localhost:1313/publication/quesada18/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Dynamic Information Exchange in Emergency Response Scenarios</title>
+      <link>http://localhost:1313/publication/quesada17/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Building Ontologies with the Wisdom of the Crowd</title>
+      <link>http://localhost:1313/publication/chocron16/</link>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chocron16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Distributed Architecture to Integrate Fuzzy Relevant Objects in Real-Time Environments</title>
+      <link>http://localhost:1313/publication/medina15/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/medina15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generation of a partitioned dataset with single, interleave and multioccupancy daily living activities</title>
+      <link>http://localhost:1313/publication/quesada15b/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada15b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature sub-set selection for activity recognition</title>
+      <link>http://localhost:1313/publication/quesada15c/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada15c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing the Response Time for Activity Recognition Through use of Prototype Generation Algorithms</title>
+      <link>http://localhost:1313/publication/espinilla15/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/espinilla15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving group recommendations with consensus reaching processes</title>
+      <link>http://localhost:1313/publication/moya14/</link>
+      <pubDate>Tue, 02 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moya14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-agent System for Performing Consensus Processes in Heritage problems</title>
+      <link>http://localhost:1313/publication/quesada14a/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada14a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach based on computing with words to manage experts behavior in consensus reaching processes with large groups</title>
+      <link>http://localhost:1313/publication/palomares14/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/palomares14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gestión de Expertos con Comportamientos no Cooperativos en Procesos de Consenso en Grandes Grupos</title>
+      <link>http://localhost:1313/publication/quesada14/</link>
+      <pubDate>Sun, 02 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-agent-based semi-supervised consensus support system for large-scale group decision making</title>
+      <link>http://localhost:1313/publication/palomares14a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/palomares14a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COMAS: A consensus multi-agent based system</title>
+      <link>http://localhost:1313/publication/mata10/</link>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mata10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DLT | Francisco José Quesada Real</title>
+    <link>http://localhost:1313/tags/dlt/</link>
+      <atom:link href="http://localhost:1313/tags/dlt/index.xml" rel="self" type="application/rss+xml" />
+    <description>DLT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>DLT</title>
+      <link>http://localhost:1313/tags/dlt/</link>
+    </image>
+    
+    <item>
+      <title>🎉 Organising a special issue at International Journal of Web Information Systems</title>
+      <link>http://localhost:1313/news/ijws24/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/ijws24/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;I am pleased to inform you that I am organizing a special issue on &amp;ldquo;Distributed Ledger Technologies and Artificial Intelligence&amp;rdquo; at the International Journal of Wef Information Systems, together with Dr. Oscar Carlos Medina (Universidad Tecnológica Nacional – Facultad Regional Córdoba, Argentina) and Dr. Ana Isabel Azevedo (, CEOS.PP/ ISCAP/ Polytechnic of Porto, Portugal).&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;deadline&lt;/strong&gt; for paper submission is &lt;strong&gt;September 30&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For more information, please visit the conference website &lt;a href=&#34;https://www.emeraldgrouppublishing.com/calls-for-papers/special-issue-distributed-ledger-technologies-and-artificial-intelligence&#34;&gt;https://www.emeraldgrouppublishing.com/calls-for-papers/special-issue-distributed-ledger-technologies-and-artificial-intelligence&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 Organising a special session at UCAmI 2024</title>
+      <link>http://localhost:1313/news/ucami24/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/ucami24/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;I am pleased to inform you that I will be organizing a special session on &amp;ldquo;DLT Applied to Smart Environments&amp;rdquo; at the international UCAmI 2024 conference, together with Professor Vladimir Villarreal (Panama).&lt;/p&gt;
+&lt;p&gt;The conference will take place in Belfast (UK) from November 27 to 29, 2024.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;deadlines&lt;/strong&gt; are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Abstract submission&lt;/em&gt;: June 15&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Paper submission&lt;/em&gt;: July 15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more information, please visit the conference website &lt;a href=&#34;https://www.ucami.org&#34;&gt;https://www.ucami.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CertifIoT: An IoT and DLT-Based Solution for Enhancing Trust and Transparency in Data Certification</title>
+      <link>http://localhost:1313/publication/moya23a/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moya23a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonendo: A Platform for Publishing Wearable Data on Distributed Ledger Technologies</title>
+      <link>http://localhost:1313/publication/moya23/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moya23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,56 +5,56 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+    mode: light
+    color: blue
 
 # SEO
 marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
-  verification:
-    google: ''
-    baidu: ''
+    seo:
+        site_type: Person
+        local_business_type: ''
+        org_name: ''
+        description: 'Personal web site of Francisco José Quesada Real'
+        twitter: 'fjquesadaR'
+    analytics:
+        google_analytics: ''
+        baidu_tongji: ''
+        plausible: ''
+        fathom: ''
+        pirsch: ''
+    verification:
+        google: ''
+        baidu: ''
 
 # Site header
 header:
-  navbar:
-    enable: true
-    blox: "navbar"
-    fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
-    logo:
-      text: "Your Name"
+    navbar:
+        enable: true
+        blox: 'navbar'
+        fixed_to_top: true
+        show_search: true
+        show_theme_chooser: true
+        logo:
+            text: 'Francisco José Quesada Real'
 
 # Site footer
 footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    copyright:
+        notice: '© {year} Francisco José Quesada Real. This work is licensed under {license}'
+        license:
+            enable: true
+            allow_derivatives: false
+            share_alike: true
+            allow_commercial: false
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+    date_format: 'Jan 2, 2006'
+    time_format: '3:04 PM'
 
 # Site features
 features:
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
+    math:
+        enable: false
+    privacy_pack:
+        enable: false
