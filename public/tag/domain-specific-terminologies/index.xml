@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domain-Specific Terminologies | Francisco José Quesada Real</title>
+    <link>http://localhost:1313/tag/domain-specific-terminologies/</link>
+      <atom:link href="http://localhost:1313/tag/domain-specific-terminologies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Domain-Specific Terminologies</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Domain-Specific Terminologies</title>
+      <link>http://localhost:1313/tag/domain-specific-terminologies/</link>
+    </image>
+    
+    <item>
+      <title>Improving Dynamic Information Exchange in Emergency Response Scenarios</title>
+      <link>http://localhost:1313/publication/quesada17/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

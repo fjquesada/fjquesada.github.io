@@ -1,5 +1,5 @@
 ---
-title: 🎉 Organising a special session at UCAmI 2024
+title: 📰 Organising a special session at UCAmI 2024
 summary: Special Session in Distributed Ledger Technologies (DLT) applied to Smart Environments (SE)
 date: 2024-06-01
 

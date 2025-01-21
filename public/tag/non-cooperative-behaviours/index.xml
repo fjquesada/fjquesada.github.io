@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-Cooperative Behaviours | Francisco José Quesada Real</title>
+    <link>http://localhost:1313/tag/non-cooperative-behaviours/</link>
+      <atom:link href="http://localhost:1313/tag/non-cooperative-behaviours/index.xml" rel="self" type="application/rss+xml" />
+    <description>Non-Cooperative Behaviours</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Non-Cooperative Behaviours</title>
+      <link>http://localhost:1313/tag/non-cooperative-behaviours/</link>
+    </image>
+    
+    <item>
+      <title>Gestión de Expertos con Comportamientos no Cooperativos en Procesos de Consenso en Grandes Grupos</title>
+      <link>http://localhost:1313/publication/quesada14/</link>
+      <pubDate>Sun, 02 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

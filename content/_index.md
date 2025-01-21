@@ -71,17 +71,12 @@ sections:
           filters:
               folders:
                   - publication
+              author: ''
+              category: ''
+              tag: ''
+              publication_type: ''
               exclude_featured: true
       design:
+          columns: '2'
           view: citation
-    - block: collection
-      id: talks
-      content:
-          title: Recent & Upcoming Talks
-          filters:
-              folders:
-                  - event
-      design:
-          view: article-grid
-          columns: 1
 ---

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommender Systems | Francisco José Quesada Real</title>
+    <link>http://localhost:1313/tag/recommender-systems/</link>
+      <atom:link href="http://localhost:1313/tag/recommender-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recommender Systems</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Recommender Systems</title>
+      <link>http://localhost:1313/tag/recommender-systems/</link>
+    </image>
+    
+    <item>
+      <title>Improving group recommendations with consensus reaching processes</title>
+      <link>http://localhost:1313/publication/moya14/</link>
+      <pubDate>Tue, 02 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moya14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

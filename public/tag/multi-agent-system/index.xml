@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Agent System | Francisco José Quesada Real</title>
+    <link>http://localhost:1313/tag/multi-agent-system/</link>
+      <atom:link href="http://localhost:1313/tag/multi-agent-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Agent System</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Multi-Agent System</title>
+      <link>http://localhost:1313/tag/multi-agent-system/</link>
+    </image>
+    
+    <item>
+      <title>COMAS: A multi-agent system for performing consensus processes</title>
+      <link>http://localhost:1313/publication/palomares11/</link>
+      <pubDate>Wed, 02 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/palomares11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COMAS: A consensus multi-agent based system</title>
+      <link>http://localhost:1313/publication/mata10/</link>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mata10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

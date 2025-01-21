@@ -14,11 +14,79 @@
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/1/</loc>
+    <loc>http://localhost:1313/news/ijws24/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/artifical-intelligence/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/dlt/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/special-issue/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/news/ucami24/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/international-conference/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/iot/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/6/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/active-learning/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/artificial-intelligence/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/chatgpt/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/quesada24/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/multiple-intelligences/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/1/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/certification/</loc>
+    <loc>http://localhost:1313/tag/certification/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,91 +94,15 @@
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-model/</loc>
+    <loc>http://localhost:1313/tag/data-model/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/dlt/</loc>
+    <loc>http://localhost:1313/tag/trust-endorsement/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/iot/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/trust-endorsement/</loc>
-    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/news/get-started/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/news/ucami24/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/academic/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/news/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/second-brain/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/news/second-brain/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/news/data-visualization/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/news/teach-courses/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/news/project-management/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/2/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/active-learning/</loc>
+    <loc>http://localhost:1313/publication-type/2/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -118,19 +110,15 @@
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/historical-heritage/</loc>
+    <loc>http://localhost:1313/tag/historical-heritage/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multiple-intelligences/</loc>
+    <loc>http://localhost:1313/tag/robotics/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/robotics/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/undergraduate-engineering/</loc>
+    <loc>http://localhost:1313/tag/undergraduate-engineering/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -142,7 +130,7 @@
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <loc>http://localhost:1313/tag/deep-learning/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -150,7 +138,7 @@
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/dems/</loc>
+    <loc>http://localhost:1313/tag/dems/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -178,27 +166,27 @@
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/positional-accuracy-assessment/</loc>
+    <loc>http://localhost:1313/tag/positional-accuracy-assessment/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/textural-imagery-segmentation/</loc>
+    <loc>http://localhost:1313/tag/textural-imagery-segmentation/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/7/</loc>
+    <loc>http://localhost:1313/publication-type/7/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/domain-grammar/</loc>
+    <loc>http://localhost:1313/tag/domain-grammar/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/domain-language/</loc>
+    <loc>http://localhost:1313/tag/domain-language/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/domain-lexicon/</loc>
+    <loc>http://localhost:1313/tag/domain-lexicon/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -206,11 +194,11 @@
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/domain-knowledge/</loc>
+    <loc>http://localhost:1313/tag/domain-knowledge/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ontology-matching/</loc>
+    <loc>http://localhost:1313/tag/ontology-matching/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -222,31 +210,31 @@
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/lexical-knowledge/</loc>
+    <loc>http://localhost:1313/tag/lexical-knowledge/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/nlu/</loc>
+    <loc>http://localhost:1313/tag/nlu/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/behaviour-management/</loc>
+    <loc>http://localhost:1313/tag/behaviour-management/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/crp/</loc>
+    <loc>http://localhost:1313/tag/crp/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/cw/</loc>
+    <loc>http://localhost:1313/tag/cw/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/group-recommender-systems/</loc>
+    <loc>http://localhost:1313/tag/group-recommender-systems/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/large-scale-gdm/</loc>
+    <loc>http://localhost:1313/tag/large-scale-gdm/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -254,15 +242,15 @@
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/uninorms/</loc>
+    <loc>http://localhost:1313/tag/uninorms/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/domain-adaptation/</loc>
+    <loc>http://localhost:1313/tag/domain-adaptation/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/emergency-domains-categorisation/</loc>
+    <loc>http://localhost:1313/tag/emergency-domains-categorisation/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -270,15 +258,15 @@
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/semantic-domains/</loc>
+    <loc>http://localhost:1313/tag/semantic-domains/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/domain-specific-terminologies/</loc>
+    <loc>http://localhost:1313/tag/domain-specific-terminologies/</loc>
     <lastmod>2017-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/emergency-response/</loc>
+    <loc>http://localhost:1313/tag/emergency-response/</loc>
     <lastmod>2017-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -294,15 +282,15 @@
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/activity-recognition/</loc>
+    <loc>http://localhost:1313/tag/activity-recognition/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ambient-middleware/</loc>
+    <loc>http://localhost:1313/tag/ambient-middleware/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/dataset/</loc>
+    <loc>http://localhost:1313/tag/dataset/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -310,28 +298,24 @@
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/intelligent-environments/</loc>
+    <loc>http://localhost:1313/tag/intelligent-environments/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/marker-based-tracking/</loc>
+    <loc>http://localhost:1313/tag/marker-based-tracking/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/object-distribution-services/</loc>
+    <loc>http://localhost:1313/tag/object-distribution-services/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/real-time-processing/</loc>
+    <loc>http://localhost:1313/tag/real-time-processing/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/smart-environments/</loc>
+    <loc>http://localhost:1313/tag/smart-environments/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/6/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/quesada15/</loc>
@@ -346,11 +330,11 @@
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-driven/</loc>
+    <loc>http://localhost:1313/tag/data-driven/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/feature-selection/</loc>
+    <loc>http://localhost:1313/tag/feature-selection/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -358,11 +342,11 @@
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/nearest-neighbor-nn/</loc>
+    <loc>http://localhost:1313/tag/nearest-neighbor-nn/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/prototype-generation-pg/</loc>
+    <loc>http://localhost:1313/tag/prototype-generation-pg/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -370,11 +354,11 @@
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/response-time/</loc>
+    <loc>http://localhost:1313/tag/response-time/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/smart-homes/</loc>
+    <loc>http://localhost:1313/tag/smart-homes/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -382,7 +366,7 @@
     <lastmod>2014-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/recommender-systems/</loc>
+    <loc>http://localhost:1313/tag/recommender-systems/</loc>
     <lastmod>2014-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -390,11 +374,11 @@
     <lastmod>2014-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/heritage/</loc>
+    <loc>http://localhost:1313/tag/heritage/</loc>
     <lastmod>2014-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-agent-systems/</loc>
+    <loc>http://localhost:1313/tag/multi-agent-systems/</loc>
     <lastmod>2014-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -402,7 +386,7 @@
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/expert-behaviours/</loc>
+    <loc>http://localhost:1313/tag/expert-behaviours/</loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -410,19 +394,19 @@
     <lastmod>2014-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/non-cooperative-behaviours/</loc>
+    <loc>http://localhost:1313/tag/non-cooperative-behaviours/</loc>
     <lastmod>2014-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/consensus-support-system/</loc>
+    <loc>http://localhost:1313/tag/consensus-support-system/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/fuzzy-preference-relations/</loc>
+    <loc>http://localhost:1313/tag/fuzzy-preference-relations/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-agent-architecture/</loc>
+    <loc>http://localhost:1313/tag/multi-agent-architecture/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -430,7 +414,7 @@
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/proposed-consensus-model/</loc>
+    <loc>http://localhost:1313/tag/proposed-consensus-model/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -438,7 +422,7 @@
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/shared-semantics/</loc>
+    <loc>http://localhost:1313/tag/shared-semantics/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -446,15 +430,15 @@
     <lastmod>2011-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/consensus-model/</loc>
+    <loc>http://localhost:1313/tag/consensus-model/</loc>
     <lastmod>2011-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/group-decision-making/</loc>
+    <loc>http://localhost:1313/tag/group-decision-making/</loc>
     <lastmod>2011-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-agent-system/</loc>
+    <loc>http://localhost:1313/tag/multi-agent-system/</loc>
     <lastmod>2011-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -462,7 +446,7 @@
     <lastmod>2010-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ontology/</loc>
+    <loc>http://localhost:1313/tag/ontology/</loc>
     <lastmod>2010-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

@@ -1,5 +1,5 @@
 ---
-title: 🎉 Organising a special issue at International Journal of Web Information Systems
+title: 📗 Organising a special issue at International Journal of Web Information Systems
 summary: Special Issue on Distributed Ledger Technologies and Artificial Intelligence
 date: 2024-06-25
 
@@ -19,7 +19,7 @@ tags:
 
 {{< toc mobile_only=true is_open=true >}}
 
-I am pleased to inform you that I am organizing a special issue on "Distributed Ledger Technologies and Artificial Intelligence" at the International Journal of Wef Information Systems, together with Dr. Oscar Carlos Medina (Universidad Tecnológica Nacional – Facultad Regional Córdoba, Argentina) and Dr. Ana Isabel Azevedo (, CEOS.PP/ ISCAP/ Polytechnic of Porto, Portugal).
+I am pleased to inform you that I am organizing a special issue on "Distributed Ledger Technologies and Artificial Intelligence" at the International Journal of Web Information Systems, together with Dr. Oscar Carlos Medina (Universidad Tecnológica Nacional – Facultad Regional Córdoba, Argentina) and Dr. Ana Isabel Azevedo (, CEOS.PP/ ISCAP/ Polytechnic of Porto, Portugal).
 
 The **deadline** for paper submission is **September 30**
 

@@ -21,6 +21,10 @@ comments: false # Show comments?
 
 -   International Conference on Advanced Technologies Enhancing Education (ICAT2E2017), 2017
 
+#### Guest Editor
+
+-   Special issue on “Distributed Ledger Technologies and Artificial Intelligence”. International Journal of Web Information Systems 2024
+
 #### Reviewer at:
 
 -   Artificial Intelligence Review, 2023
@@ -28,8 +32,10 @@ comments: false # Show comments?
 -   Expert System with Applications, 2023
 -   Information Fusion, 2023
 -   Information Sciences, 2015
+-   International Conference on Ubiquitous Computing and Ambient Intelligence, 2024
 -   International Journal of Computational Intelligence Systems, 2021-2023
 -   Intelligent Systems and Knowledge Engineering (ISKE), 2023
 -   International Transactions in Operational Research, 2020-2021
+-   Revista Realidad Empresarial 2024
 -   Soft Computing, 2015
 -   Transactions on Fuzzy Systems, 2018

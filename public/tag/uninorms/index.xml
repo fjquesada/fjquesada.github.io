@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uninorms | Francisco José Quesada Real</title>
+    <link>http://localhost:1313/tag/uninorms/</link>
+      <atom:link href="http://localhost:1313/tag/uninorms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Uninorms</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Uninorms</title>
+      <link>http://localhost:1313/tag/uninorms/</link>
+    </image>
+    
+    <item>
+      <title>Procesos de alcance de consenso ante nuevos retos en toma de decisión en grupo: grandes grupos y recomendación</title>
+      <link>http://localhost:1313/publication/quesada19/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing experts behavior in large-scale consensus reaching processes with uninorm aggregation operators</title>
+      <link>http://localhost:1313/publication/quesada15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/quesada15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
