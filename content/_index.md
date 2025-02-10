@@ -79,4 +79,16 @@ sections:
       design:
           columns: '2'
           view: citation
+    - block: markdown
+      id: contact
+      content:
+          title: Contact
+          text: '<b>University of Jaén</b> <br>
+              Computer Science Department <br>
+              A3-241 <br>
+              Campus Las Lagunillas, 23071, Jaén | +34 953 21 24 76 <br>
+              <a href="https://uvirtual.ujaen.es/pub/es/informacionacademica/tutorias/p/75194"><it>Office hours:</it></a> <br>
+              - Tuesday: 17:30-18:30 <br>
+              - Thursday: 16:30-17:30 <br>
+              - Friday: 9:00-13:30 <br>'
 ---
